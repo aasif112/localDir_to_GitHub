@@ -1,2 +1,9 @@
 h1 {background-color: lightsteelblue;}
 p {color: darkblue;}
+button {
+    color: black;
+    font-weight: bold;
+    padding: 0.2rem 0.5rem;
+    border: none;
+    background-color: darkolivegreen;
+}
