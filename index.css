@@ -1,2 +1,10 @@
 h1 {background-color: lightsteelblue;}
 p {color: darkblue;}
+/* Button Styling in branchTwo */
+button {
+    color: black;
+    font-weight: bold;
+    padding: 0.2rem 0.5rem;
+    border: none;
+    background-color: darkolivegreen;
+}
